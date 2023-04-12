@@ -32,6 +32,9 @@ Key Takeways:-
 
 7)Trains are the least orderd item and classic cars are most ordered item based on the data.
 
+
+Everyone is kindly requested to share their feedbacks on the project with me.Thank You!
+
 8)Madrid of spain has made the highest sales amongst all the cities around all other countries.
 
 9)November has highest sales of around Twenty one lakh eighteen thousand.
